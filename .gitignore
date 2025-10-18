@@ -1,0 +1,4 @@
+# git rm --cached file (para eliminar files ya subidos de GitHub)
+# Luego hacer push origin, normal
+
+# file_example.pdf
