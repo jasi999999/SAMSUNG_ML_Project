@@ -1,4 +1,7 @@
 # SAMSUNG_ML_Project
 Supervised ML Kaggle Project
-El pro
-yecto de tal tal
+
+1. Imputar NaN con MICE
+2. Estandarización
+3. Outliers
+4. Hyperparámetros
